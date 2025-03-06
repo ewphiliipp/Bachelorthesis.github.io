@@ -1,2 +1,2 @@
 # Bachelorthesis.github.io
-My Bachelors project consisted of the analysis of an pose estimation modell, developed by Ottobock, that can analyse the gait cycle 
+For my Bachelor's project, I conducted a comprehensive analysis of a pose estimation model developed by Ottobock that is designed to accurately analyze the human gait cycle.
